@@ -1,0 +1,42 @@
+# Site title and description
+title: Sanjeev's Tavern
+description: A place for people to read my yappings.
+
+# URL of your site
+url: https://yourusername.github.io
+baseurl: ""
+
+# Theme
+theme: jekyll-theme-hacker
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Set the default layout for posts and pages
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude files from the build
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+# Specify the output directory
+destination: ./_site
+
+# Social media links (example, add or adjust as needed)
+social_links:
+  - name: GitHub
+    url: https://github.com/sanjeevscript
