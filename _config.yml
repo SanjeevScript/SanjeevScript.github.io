@@ -2,6 +2,6 @@ title: Sanjeevs Tavern
 description: A place for people to read my yappings.
 theme: jekyll-theme-hacker
 baseurl: "" # Leave this blank if your site is at https://username.github.io
-url: "https://username.github.io" # Replace with your actual GitHub Pages URL
+url: "https://sanjeevscript.github.io" # Replace with your actual GitHub Pages URL
 
 markdown: kramdown
