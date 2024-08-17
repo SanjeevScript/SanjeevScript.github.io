@@ -1,9 +1,10 @@
 ---
 layout: home
-title: "Sanjeev's Coding and Gaming Blog"
+title: Sanjeev's Tavern
+description: A place for people to read my yappings.
 ---
 
-# Welcome to Sanjeev's Blog
+# Welcome to Sanjeev's Tavern
 
 Hi! I'm Sanjeev, a 12-year-old coder and gamer from Bengaluru. I love creating websites and games, including my current projects: a **Kirby game** in TypeScript and a **shooting game** in C#.
 
