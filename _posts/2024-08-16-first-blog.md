@@ -19,4 +19,4 @@ Thank you for joining me on this journey. Stay tuned for more posts and updates!
 
 ---
 
-Feel free to explore my other posts and connect with me on [GitHub](https://github.com/sanjeevscript) or [Instagram](https://instagram.com/sonic5090). Your support and feedback are greatly appreciated!
+Feel free to explore my other posts and connect with me on [GitHub](https://github.com/sanjeevscript/) or [Instagram](https://www.instagram.com/sonic_5090/). Your support and feedback are greatly appreciated!
