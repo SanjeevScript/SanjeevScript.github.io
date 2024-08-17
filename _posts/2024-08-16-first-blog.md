@@ -5,7 +5,7 @@ date: 2024-08-16
 categories: [coding, blog]
 ---
 
-# My First Blog Post
+# First Blog!!
 
 Welcome to my very first blog post! I’m thrilled to finally have my blog up and running. 🎉
 
